@@ -40,7 +40,7 @@ These approaches help the model learn churn patterns better and balance class di
 | Precision         | 0.71          | 0.78             | 0.83             |
 | Recall            | 0.62          | 0.81             | 0.87             |
 | F1 Score          | 0.66          | 0.79             | 0.85             |
-| ROC-AUC           | 0.84          | 0.89             | 0.91             |
+| ROC-AUC           | 0.82         | 0.89             | 0.91             |
 
 > 📌 **Conclusion**: Augmenting the minority class greatly improved the model’s ability to detect churned customers, especially recall and F1-score.
 ## 📊 Key Visualizations
