@@ -217,9 +217,6 @@ The project includes several visual analytics:
 
 ---
 
-
----
-
 # 🚀 Installation
 
 Clone the repository
