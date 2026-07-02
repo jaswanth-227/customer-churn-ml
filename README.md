@@ -217,27 +217,6 @@ The project includes several visual analytics:
 
 ---
 
-# 📂 Project Structure
-
-```text
-Telco-Customer-Churn-Prediction
-│
-├── dataset/
-│
-├── notebooks/
-│
-├── models/
-│
-├── images/
-│
-├── results/
-│
-├── requirements.txt
-│
-├── churn_prediction.ipynb
-│
-└── README.md
-```
 
 ---
 
